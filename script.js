@@ -57,4 +57,17 @@
 //     }else {
 //         console.log(i + " holo none_virgin shonka")
 //     }
-// }
+// }          
+
+
+// var a = 0 ;
+// for (var n = 1 ; n<=100; n++) {
+//     a += n;
+// } console.log(a);
+
+var a = 0 ;
+for (var n = 1 ; n<=100; n++) {
+    if (n%2===1)
+    a += n;
+} console.log(a);
+
