@@ -35,8 +35,26 @@
 // } console.log("Rafi bia korbe"+Rafi);
 
 
-let namta1 = 5;
+// let namta1 = 5;
 
-for (let c=1; c<=10; c++) {
-    console.log(namta1*c);
-}
+// for (let c=1; c<=10; c++) {
+//     console.log(namta1*c);
+// }   
+
+
+// <--------------10/21/2025------------>
+
+// var a = 5; 
+// for ( let i = 1; i<=10; i++) {
+//     if (i%2 === 1) {
+//     console.log(a*i);
+//     }
+// }
+
+// for ( let i = 1; i <= 20; i++) {      
+//     if (i%2 === 1) {
+//         console.log(i + " holo virgin shonka")
+//     }else {
+//         console.log(i + " holo none_virgin shonka")
+//     }
+// }
