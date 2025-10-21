@@ -29,7 +29,14 @@
 // let c = a+b;
 // console.log(c);
 
-let Rafi = " ";
-for ( let bia = 1; bia <= 4; bia++) {
-    Rafi+=(bia+"wife \n");
-} console.log("Rafi bia korbe"+Rafi);
+// let Rafi = " ";
+// for ( let bia = 1; bia <= 4; bia++) {
+//     Rafi+=(bia+"wife \n");
+// } console.log("Rafi bia korbe"+Rafi);
+
+
+let namta1 = 5;
+
+for (let c=1; c<=10; c++) {
+    console.log(namta1*c);
+}
